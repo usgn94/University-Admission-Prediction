@@ -1,6 +1,6 @@
 # University-Admission-Prediction
 
-Predicts the chance if admit into a particular university using GRE and TOEFL scores, SOP, LOR, research experinence and university rating in which the person whats to join
+Predicts the chance if admit into a particular university using GRE and TOEFL scores, SOP, LOR, research experience and university rating in which the person wants to join
 
 ## Prediction Models - Results
 
